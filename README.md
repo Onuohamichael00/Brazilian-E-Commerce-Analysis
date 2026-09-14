@@ -142,6 +142,8 @@ The Business Overview page focuses on overall commercial performance and include
 - Top customer states by revenue and order volume
 - Early vs. late delivered orders
 
+👉 [View Dashboard 1 — Business Overview](https://github.com/Onuohamichael00/Brazilian-E-Commerce-Analysis/blob/main/Dashboard%20Visuals/Olist%20dashboard%201.JPG)
+
 ### Page 2 — Operational Performance
 
 The Operational Performance page focuses on fulfillment and delivery efficiency and includes:
@@ -158,7 +160,7 @@ The Operational Performance page focuses on fulfillment and delivery efficiency 
 
 A **Year timeline slicer** was incorporated to allow users to interactively filter the dashboard and analyze performance across different periods.
 
-👉 [View Dashboard Screenshots](./Dashboard%20Visuals/README.md)
+👉 [View Dashboard 2 — Operational Performance](https://github.com/Onuohamichael00/Brazilian-E-Commerce-Analysis/blob/main/Dashboard%20Visuals/Olist%20Dashboard%202.JPG)
 
 
 ## 🔍 Key Insights
