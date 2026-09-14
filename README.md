@@ -269,7 +269,7 @@ The project files and supporting materials are available below:
 
 - 📊 [View Completed Excel Workbook](https://docs.google.com/spreadsheets/d/1UWBY91E_imVi18iHmKHLebZsdRrs8kMs/edit?usp=sharing)
 - 📄 [View Full Project Documentation](https://docs.google.com/document/d/1zo0tR1C_hQyhV4xJofY-BI5oEWNEgzk3/edit?usp=sharing)
-- 🖼️ [View Dashboard Visuals](./Dashboard%20Visuals/README.md)
+- - 🖼️ [View Dashboard Visuals](https://github.com/Onuohamichael00/Brazilian-E-Commerce-Analysis/tree/main/Dashboard%20Visuals)
 
 > **Note:** The raw dataset is not included in this repository due to its file size. It can be accessed from the original [Kaggle dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
