@@ -288,4 +288,4 @@ The resulting dashboard provides a structured view of business performance and h
 
 Data Analyst focused on transforming raw data into actionable business insights using **Microsoft Excel, Power Query, Power Pivot, DAX, and SQL**.
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/michael-onuoha/)
+[LinkedIn](https://www.linkedin.com/in/onuoha-michael-20aa76288/)
